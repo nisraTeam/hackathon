@@ -55,6 +55,10 @@ body{
     background-color: #9400D3;
 }
 
+.barBackgroudBlack{
+    background-color:   #3C3C3C;
+}
+
 #bar{
     
 	
@@ -83,7 +87,7 @@ body{
     border: 1px ;
     /*border-radius: 5px 5px;*/
 	float: left;
-    width: 22%;
+    width: 18%;
 }
 
 .active {

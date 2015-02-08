@@ -1,0 +1,119 @@
+#home {
+    background-image: url("img/bg_black2.jpg");
+    padding: 0%
+}
+
+#menu {
+    margin-top: 3%;
+    margin-bottom: 3%;
+    margin-left: 0%;
+    margin-right: 0%;
+    padding: 1%;
+    background-color: rgba( 81, 81, 81, 0.8);
+}
+
+#wrapper {
+    margin-top: 3%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 3%;
+    padding: 1%;
+    background-color: rgba( 81, 81, 81, 0.8);
+    width: 75%;
+    text-align: center;
+    border-style: inset;
+    border-width: 5px;
+    border-color: rgba( 108, 108, 108, 0.6);
+}
+
+#HH {
+    font-family: "微軟正黑體", "Microsoft JhengHei", "標楷體", "DFKai-sb", serif;
+    font-size: 40px;
+    color: rgba( 247, 247, 247, 0.9);
+    text-align: center;
+    letter-spacing: 2px;    
+    line-height: 2em;
+    margin: 0px;
+    margin-top: 2%;
+}
+
+#HH2 {
+    font-family: "微軟正黑體", "Microsoft JhengHei", "標楷體", "DFKai-sb", serif;
+    font-size: 32px;
+    color: rgba( 247, 247, 247, 0.9);
+    text-align: center;
+    letter-spacing: 2px;    
+    line-height: 2em;
+    margin: 0px;
+}
+
+#LL {
+    height: 2px;
+    width: 88%;
+    border-color: rgba( 247, 247, 247, 0.5);
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+#LL1 {
+    width: 0%;
+    border-color: rgba( 247, 247, 247, 0.5);
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+#CC0 {
+    margin-left: auto;
+    margin-right: auto;
+    width: 82%;
+}
+
+#PP0 {
+    font-family: "微軟正黑體", "Microsoft JhengHei", "標楷體", "DFKai-sb", serif;
+    font-size: 18px;
+    color: rgba( 247, 247, 247, 0.7);
+    text-align: center;
+    letter-spacing: 2px;    
+    line-height: 2em;
+}
+
+#CC1 {
+    width: 88%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 3%;
+}
+
+#PP1 {
+    font-family: "標楷體", "DFKai-sb", "微軟正黑體", "Microsoft JhengHei", serif;
+    font-size: 28px;
+    color: rgba( 247, 247, 247, 0.7);
+    text-align: center;
+}
+
+#AA {
+    text-decoration: none;
+    letter-spacing: 3px;
+    color: white;
+}
+
+#AA1 {
+    font-size: 20px;
+    text-decoration: none;
+    letter-spacing: 3px;
+    color: rgba( 247, 247, 247, 1);
+}
+
+#AA:hover {
+    text-decoration:none;
+    color: rgba( 247, 247, 60, 1)
+}
+
+#AA1:hover {
+    text-decoration:none;
+    color: rgba( 247, 247, 60, 1)
+}
+
+#SPACE{
+    padding: 5%;
+}
